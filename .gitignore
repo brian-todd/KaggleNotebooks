@@ -1,2 +1,6 @@
+# File types.
 *.csv
 *.pyc
+
+# Ipython notebook checkpoints.
+digits/.ipynb_checkpoints/
