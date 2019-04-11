@@ -3,4 +3,7 @@
 *.pyc
 
 # Ipython notebook checkpoints.
-digits/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Ignore any data files.
+*data/
